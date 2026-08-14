@@ -14,7 +14,7 @@ The main goal of the project is to learn mobile development with C# and Avalonia
 
 **Alarmageddon is an alarm app that uses increasingly annoying and difficult challenges to make sure the user actually wakes up.**
 
-The app should still work as a normal alarm clock, but the way it wakes the user up should be unnecessarily complicated and funny.
+The app should still work as a normal alarm clock, but waking up should be unnecessarily complicated and funny.
 
 ## 2. Expected Technical Challenges
 
@@ -69,50 +69,46 @@ I will work with technologies and concepts that I have not used much before, inc
 
 This makes the project a good addition to my previous work because it allows me to learn a different area of software development instead of repeating something I already know.
 
----
-
-# User Stories
-
-The following table contains the planned user stories for the project.
-
-| Status |   ID  | User Story                                                                                       | Target Date |
-| :----: | :---: | ------------------------------------------------------------------------------------------------ | :---------: |
-|    ○   | US-01 | As a user, I want to create an alarm so that I can wake up at a specific time.                   |  21.08.2026 |
-|    ○   | US-02 | As a user, I want to edit and delete alarms so that I can manage my alarms.                      |  21.08.2026 |
-|    ○   | US-03 | As a user, I want to choose an alarm sound so that I can decide how I want to wake up.           |  21.08.2026 |
-|    ○   | US-04 | As a user, I want the alarm to become more annoying over time so that I cannot simply ignore it. |  28.08.2026 |
-|    ○   | US-05 | As a user, I want to solve a math problem before I can turn off the alarm.                       |  28.08.2026 |
-|    ○   | US-06 | As a user, I want to choose how difficult the wake-up challenges are.                            |  28.08.2026 |
-|    ○   | US-07 | As a user, I want to use a QR code as a wake-up challenge so that I have to get out of bed.      |  04.09.2026 |
-|    ○   | US-08 | As a user, I want to see statistics about my alarms and wake-up behaviour.                       |  04.09.2026 |
-|    ○   | US-09 | As a user, I want the app to analyse my sleep history and suggest suitable wake-up times.        |  04.09.2026 |
-|    ○   | US-10 | As a user, I want to customize how my alarm behaves.                                             |  11.09.2026 |
-|    ○   | US-11 | As a user, I want different alarm difficulty levels.                                             |  11.09.2026 |
-|    ○   | US-12 | As a user, I want my alarms and statistics to be saved when I close the app.                     |  11.09.2026 |
-|    ○   | US-13 | As a user, I want a simple and pleasant interface.                                               |  11.09.2026 |
-|    ○   | US-14 | As a user, I want the app to give me feedback after successfully completing an alarm.            |  11.09.2026 |
-
-### Status
+## Status Legend
 
 * ○ Planned
 * ⟳ In Progress
 * ✓ Completed
 * 🗙 Cancelled
 
----
+## User Stories
 
-# Development Tasks
+The following table contains the planned user stories for the project.
 
-These tasks cover the technical preparation and project setup. They are separate from the user stories because they are mainly concerned with preparing the project for implementation.
+| Status | ID | User Story | Target Date |
+| :---: | :---: | --- | :---: |
+| ○ | US-01 | As a user, I want to create an alarm so that I can wake up at a specific time. | 21.08.2026 |
+| ○ | US-02 | As a user, I want to edit and delete alarms so that I can manage my alarms. | 21.08.2026 |
+| ○ | US-03 | As a user, I want to choose an alarm sound so that I can decide how I want to wake up. | 21.08.2026 |
+| ○ | US-04 | As a user, I want the alarm to become more annoying over time so that I cannot simply ignore it. | 28.08.2026 |
+| ○ | US-05 | As a user, I want to solve a math problem before I can turn off the alarm. | 28.08.2026 |
+| ○ | US-06 | As a user, I want to choose how difficult the wake-up challenges are. | 28.08.2026 |
+| ○ | US-07 | As a user, I want to use a QR code as a wake-up challenge so that I have to get out of bed. | 04.09.2026 |
+| ○ | US-08 | As a user, I want to see statistics about my alarms and wake-up behaviour. | 04.09.2026 |
+| ○ | US-09 | As a user, I want the app to analyse my sleep history and suggest suitable wake-up times. | 04.09.2026 |
+| ○ | US-10 | As a user, I want to customize how my alarm behaves. | 11.09.2026 |
+| ○ | US-11 | As a user, I want different alarm difficulty levels. | 11.09.2026 |
+| ○ | US-12 | As a user, I want my alarms and statistics to be saved when I close the app. | 11.09.2026 |
+| ○ | US-13 | As a user, I want a simple and pleasant interface. | 11.09.2026 |
+| ○ | US-14 | As a user, I want the app to give me feedback after successfully completing an alarm. | 11.09.2026 |
 
-| Status |   ID   | Development Task                                                                                                                   | Target Date |
-| :----: | :----: | ---------------------------------------------------------------------------------------------------------------------------------- | :---------: |
-|    ○   | DEV-01 | As a developer, I want to set up the Avalonia project so that I have a working foundation for Alarmageddon.                        |  14.08.2026 |
-|    ○   | DEV-02 | As a developer, I want to create a basic project structure so that the code remains organised as the project grows.                |  14.08.2026 |
-|    ○   | DEV-03 | As a developer, I want to set up the basic MVVM architecture so that UI and application logic are separated.                       |  14.08.2026 |
-|    ○   | DEV-04 | As a developer, I want to create the initial UI layout so that I have a foundation for the application interface.                  |  14.08.2026 |
-|    ○   | DEV-05 | As a developer, I want to configure Git and GitHub so that the project can be properly version controlled.                         |  14.08.2026 |
-|    ○   | DEV-06 | As a developer, I want to document the project structure and implementation plan so that I have a clear direction for development. |  14.08.2026 |
+## Development Tasks
+
+These tasks cover the technical preparation and project setup of Alarmageddon. They are separate from the user stories because they focus on the development process rather than user-facing features.
+
+| Status | ID | Development Task | Target Date |
+| :---: | :---: | --- | :---: |
+| ○ | DEV-01 | As a developer, I want to set up the Avalonia project so that I have a working foundation for Alarmageddon. | 14.08.2026 |
+| ○ | DEV-02 | As a developer, I want to create a basic project structure so that the code remains organised as the project grows. | 14.08.2026 |
+| ○ | DEV-03 | As a developer, I want to set up the basic MVVM architecture so that UI and application logic are separated. | 14.08.2026 |
+| ○ | DEV-04 | As a developer, I want to create the initial UI layout so that I have a foundation for the application interface. | 14.08.2026 |
+| ○ | DEV-05 | As a developer, I want to configure Git and GitHub so that the project can be properly version controlled. | 14.08.2026 |
+| ○ | DEV-06 | As a developer, I want to document the project structure and implementation plan so that I have a clear direction for development. | 14.08.2026 |
 
 ---
 
@@ -180,16 +176,16 @@ These tasks cover the technical preparation and project setup. They are separate
 
 # Technology
 
-| Technology  | Purpose                      |
-| ----------- | ---------------------------- |
-| C#          | Main programming language    |
-| .NET        | Application framework        |
-| Avalonia UI | User interface               |
-| XAML        | UI layout                    |
-| MVVM        | Application architecture     |
-| SQLite      | Local data storage           |
-| Git         | Version control              |
-| GitHub      | Repository and documentation |
+| Technology | Purpose |
+| --- | --- |
+| C# | Main programming language |
+| .NET | Application framework |
+| Avalonia UI | User interface |
+| XAML | UI layout |
+| MVVM | Application architecture |
+| SQLite | Local data storage |
+| Git | Version control |
+| GitHub | Repository and documentation |
 
 ---
 
