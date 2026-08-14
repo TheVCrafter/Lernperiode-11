@@ -1,0 +1,11 @@
+﻿<Solution>
+  <Project Path="Alarmageddon.Android/Alarmageddon.Android.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="Alarmageddon.Browser/Alarmageddon.Browser.csproj" />
+  <Project Path="Alarmageddon.Desktop/Alarmageddon.Desktop.csproj" />
+  <Project Path="Alarmageddon.iOS/Alarmageddon.iOS.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="Alarmageddon/Alarmageddon.csproj" />
+</Solution>
