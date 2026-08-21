@@ -1,14 +1,14 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alarmageddon", "Alarmageddon\Alarmageddon.csproj", "{2CD6580C-2EB6-4EA0-B041-433758E71489}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alarmageddon", "src\Alarmageddon\Alarmageddon.csproj", "{2CD6580C-2EB6-4EA0-B041-433758E71489}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alarmageddon.Android", "Alarmageddon.Android\Alarmageddon.Android.csproj", "{DDD3380C-090E-46EE-987B-5B95CE766F12}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alarmageddon.Android", "src\Alarmageddon.Android\Alarmageddon.Android.csproj", "{DDD3380C-090E-46EE-987B-5B95CE766F12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alarmageddon.Desktop", "Alarmageddon.Desktop\Alarmageddon.Desktop.csproj", "{3C3B8620-8F32-4047-9690-512892CEB901}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alarmageddon.Desktop", "src\Alarmageddon.Desktop\Alarmageddon.Desktop.csproj", "{3C3B8620-8F32-4047-9690-512892CEB901}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alarmageddon.iOS", "Alarmageddon.iOS\Alarmageddon.iOS.csproj", "{C98ABB9D-49AB-47F4-8215-B65F8F37BD4B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alarmageddon.iOS", "src\Alarmageddon.iOS\Alarmageddon.iOS.csproj", "{C98ABB9D-49AB-47F4-8215-B65F8F37BD4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alarmageddon.Browser", "Alarmageddon.Browser\Alarmageddon.Browser.csproj", "{E9C4A61F-36C5-4BE7-91F1-F80E92967414}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alarmageddon.Browser", "src\Alarmageddon.Browser\Alarmageddon.Browser.csproj", "{E9C4A61F-36C5-4BE7-91F1-F80E92967414}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
