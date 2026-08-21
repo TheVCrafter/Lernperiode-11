@@ -102,13 +102,13 @@ The following table contains the planned user stories for the project.
 These tasks cover the technical preparation and project setup of Alarmageddon. They are separate from the user stories because they focus on the development process rather than user-facing features.
 
 | Status | ID | Development Task | Target Date |
-| :---: | :---: | --- | :---: |
-| ○ | DEV-01 | As a developer, I want to set up the Avalonia project so that I have a working foundation for Alarmageddon. | 14.08.2026 |
-| ○ | DEV-02 | As a developer, I want to create a basic project structure so that the code remains organised as the project grows. | 14.08.2026 |
-| ○ | DEV-03 | As a developer, I want to set up the basic MVVM architecture so that UI and application logic are separated. | 14.08.2026 |
-| ○ | DEV-04 | As a developer, I want to create the initial UI layout so that I have a foundation for the application interface. | 14.08.2026 |
-| ○ | DEV-05 | As a developer, I want to configure Git and GitHub so that the project can be properly version controlled. | 14.08.2026 |
-| ○ | DEV-06 | As a developer, I want to document the project structure and implementation plan so that I have a clear direction for development. | 14.08.2026 |
+|:------:| :---: | --- | :---: |
+|   ✓   | DEV-01 | As a developer, I want to set up the Avalonia project so that I have a working foundation for Alarmageddon. | 14.08.2026 |
+|   ✓   | DEV-02 | As a developer, I want to create a basic project structure so that the code remains organised as the project grows. | 14.08.2026 |
+|   ✓   | DEV-03 | As a developer, I want to set up the basic MVVM architecture so that UI and application logic are separated. | 14.08.2026 |
+|   ⟳    | DEV-04 | As a developer, I want to create the initial UI layout so that I have a foundation for the application interface. | 14.08.2026 |
+|   ✓   | DEV-05 | As a developer, I want to configure Git and GitHub so that the project can be properly version controlled. | 14.08.2026 |
+|   ✓   | DEV-06 | As a developer, I want to document the project structure and implementation plan so that I have a clear direction for development. | 14.08.2026 |
 
 ---
 
