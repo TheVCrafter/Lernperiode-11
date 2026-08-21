@@ -118,11 +118,17 @@ These tasks cover the technical preparation and project setup of Alarmageddon. T
 
 ### What I Did
 
-*To be filled in.*
+I started the Alarmageddon project and set up the basic project structure. I created the Avalonia application projects for the supported platforms and configured the project so that the different targets are organised separately.
+
+I also set up Git and GitHub for version control and created the initial project documentation. The README was structured to describe the project idea, technical challenges, goals, user stories and development tasks.
+
+During the initial setup, I also reorganised the project structure by moving the application projects into a dedicated `src` directory and updating the solution files accordingly.
 
 ### Reflection
 
-*To be filled in.*
+The first day was mainly focused on planning and setting up a solid foundation for the project. I now have a clearer overview of what I want to build and how I want to structure the development process.
+
+I also gained some initial experience with setting up a cross-platform Avalonia project and organising a larger project with multiple platform targets. The project is now ready for the actual implementation of the first user-facing features.
 
 ---
 
